@@ -1,2 +1,2 @@
-# conversor-escala-termom-trica
+# conversor-escala-termometrica
 Programa que converte escala termométrica
