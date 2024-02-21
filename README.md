@@ -7,3 +7,4 @@ Kelvin     -> Celsius e Fahrenheit
 <br>
 Fahrenheit -> Celsius e Kelvin
 <br>
+Você pode executar baixando o conteúdo da pasta dist e executando
