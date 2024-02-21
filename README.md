@@ -1,2 +1,9 @@
 # conversor-escala-termometrica
-Programa que converte escala termométrica
+Programa que converte escalas termométricas
+<br>
+Celsius    -> Kelvin e Fahrenheit
+<br>
+Kelvin     -> Celsius e Fahrenheit
+<br>
+Fahrenheit -> Celsius e Kelvin
+<br>
