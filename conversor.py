@@ -1,3 +1,5 @@
+import time
+
 # Usuário informa
 tempUsuario = input('Coloque sua temperatura [C - Celsius] [F - Fahrenheit] [K - Kelvin]')
 
@@ -34,3 +36,7 @@ elif tempUsuario == 'K' or tempUsuario == 'k':
 else:
     print('Você precisa digitar uma escala de medida para continuar.')
     print('O programa será encerrado.')
+
+print('Fim do programa')
+
+time.sleep(5)
